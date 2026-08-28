@@ -1,0 +1,6 @@
+{
+  "name": "CineNest",
+  "description": "A Netflix-style movie streaming UI prototype featuring a hero banner, categorized rows, and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
